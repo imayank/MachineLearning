@@ -1,0 +1,4813 @@
+Starting run 0.
+-------------------
+time:  0
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 0]
+Heading:  up
+-------------------
+time:  1
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 1]
+Heading:  up
+-------------------
+time:  2
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 2]
+Heading:  up
+-------------------
+time:  3
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 3]
+Heading:  up
+-------------------
+time:  4
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [0, 4]
+Heading:  up
+-------------------
+time:  5
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [1, 4]
+Heading:  right
+-------------------
+time:  6
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [1, 5]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  7
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [1, 6]
+Heading:  up
+-------------------
+time:  8
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [1, 7]
+Heading:  up
+-------------------
+time:  9
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [2, 7]
+Heading:  right
+-------------------
+time:  10
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [3, 7]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  11
+Rotation:  90
+Move:  0
+Intended:  left
+Location: [4, 7]
+Heading:  right
+-------------------
+time:  12
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [4, 7]
+Heading:  down
+-------------------
+time:  13
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [3, 7]
+Heading:  left
+-------------------
+time:  14
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [3, 6]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  15
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [4, 6]
+Heading:  right
+-------------------
+time:  16
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [4, 5]
+Heading:  down
+-------------------
+time:  17
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [5, 5]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  18
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [5, 6]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  19
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [5, 7]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  20
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [5, 8]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  21
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [5, 9]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  22
+Rotation:  90
+Move:  0
+Intended:  down
+Location: [5, 10]
+Heading:  up
+-------------------
+time:  23
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [5, 10]
+Heading:  right
+-------------------
+time:  24
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [5, 9]
+Heading:  down
+-------------------
+time:  25
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [5, 8]
+Heading:  down
+-------------------
+time:  26
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [5, 7]
+Heading:  down
+-------------------
+time:  27
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [5, 6]
+Heading:  down
+-------------------
+time:  28
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [5, 5]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  29
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [6, 5]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  30
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [6, 4]
+Heading:  down
+-------------------
+time:  31
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [5, 4]
+Heading:  left
+-------------------
+time:  32
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [5, 3]
+Heading:  down
+-------------------
+time:  33
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [6, 3]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  34
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [7, 3]
+Heading:  right
+-------------------
+time:  35
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [8, 3]
+Heading:  right
+-------------------
+time:  36
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [8, 4]
+Heading:  up
+-------------------
+time:  37
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [7, 4]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  38
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [7, 5]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  39
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [8, 5]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  40
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [9, 5]
+Heading:  right
+-------------------
+time:  41
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [10, 5]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  42
+Rotation:  90
+Move:  0
+Intended:  down
+Location: [10, 6]
+Heading:  up
+-------------------
+time:  43
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [10, 6]
+Heading:  right
+-------------------
+time:  44
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [10, 5]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  45
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [11, 5]
+Heading:  right
+-------------------
+time:  46
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [11, 4]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  47
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [10, 4]
+Heading:  left
+-------------------
+time:  48
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [10, 3]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  49
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [11, 3]
+Heading:  right
+-------------------
+time:  50
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [11, 2]
+Heading:  down
+-------------------
+time:  51
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [12, 2]
+Heading:  right
+-------------------
+time:  52
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 3]
+Heading:  up
+-------------------
+time:  53
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 4]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  54
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [12, 5]
+Heading:  up
+-------------------
+time:  55
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [13, 5]
+Heading:  right
+-------------------
+time:  56
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [13, 6]
+Heading:  up
+-------------------
+time:  57
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [12, 6]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  58
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [11, 6]
+Heading:  left
+-------------------
+time:  59
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [11, 7]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  60
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [10, 7]
+Heading:  left
+-------------------
+time:  61
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [10, 8]
+Heading:  up
+-------------------
+time:  62
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [9, 8]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  63
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [9, 7]
+Heading:  down
+-------------------
+time:  64
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [9, 6]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  65
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [8, 6]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  66
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [8, 7]
+Heading:  up
+-------------------
+time:  67
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  68
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  69
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[]
+0
+1
+1
+1
+2
+2
+2
+0
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+2
+2
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+0
+Check:  (1, 7)
+chkpoints:  [(0, 3), (1, 7), (3, 6), (4, 5), (5, 8), (5, 4), (9, 5), (10, 4), (10, 3), (11, 2), (12, 2), (12, 3), (13, 6), (11, 7), (10, 8), (6, 8)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  1.  1.  1.  1.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0.  1.  1.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  1.  1.  1.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  0.  0.  0.]
+ [ 0.  0.  0.  1.  1.  1.  0.  1.  1.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  1.  1.  1.  0.  0.  1.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  1.  1.  1.  1.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  0.  0.  0.  0.  0.]
+ [ 0.  0.  1.  1.  1.  1.  1.  1.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  1.  1.  1.  1.  1.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  1.  1.  0.  0.  0.  0.  0.  0.  0.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 6)
+[8, 8]
+down
+(9, 6)
+[8, 6]
+right
+(9, 8)
+[9, 6]
+up
+(10, 8)
+[9, 8]
+right
+(10, 7)
+[10, 8]
+down
+(11, 7)
+[10, 7]
+right
+(11, 6)
+[11, 7]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(11, 2)
+[12, 2]
+left
+(11, 3)
+[11, 2]
+up
+(10, 3)
+[11, 3]
+left
+(10, 4)
+[10, 3]
+up
+(11, 4)
+[10, 4]
+right
+(11, 5)
+[11, 4]
+up
+(8, 5)
+[11, 5]
+left
+(7, 5)
+[8, 5]
+left
+(7, 4)
+[7, 5]
+down
+(8, 4)
+[7, 4]
+right
+(8, 3)
+[8, 4]
+down
+(5, 3)
+[8, 3]
+left
+(5, 4)
+[5, 3]
+up
+(6, 4)
+[5, 4]
+right
+(6, 5)
+[6, 4]
+up
+(4, 5)
+[6, 5]
+left
+(4, 6)
+[4, 5]
+up
+(3, 6)
+[4, 6]
+left
+(3, 7)
+[3, 6]
+up
+(1, 7)
+[3, 7]
+left
+-------------------
+time:  103
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [1, 7]
+Heading:  left
+-------------------
+time:  104
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [1, 8]
+Heading:  up
+-------------------
+time:  105
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [2, 8]
+Heading:  right
+-------------------
+time:  106
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [3, 8]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  107
+Rotation:  90
+Move:  0
+Intended:  left
+Location: [4, 8]
+Heading:  right
+-------------------
+time:  108
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [4, 8]
+Heading:  down
+-------------------
+time:  109
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [3, 8]
+Heading:  left
+-------------------
+time:  110
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [3, 9]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  111
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [4, 9]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  112
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [4, 10]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  113
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [3, 10]
+Heading:  left
+-------------------
+time:  114
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [2, 10]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  115
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [2, 11]
+Heading:  up
+-------------------
+time:  116
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [1, 11]
+Heading:  left
+-------------------
+time:  117
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [1, 12]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  118
+Rotation:  90
+Move:  0
+Intended:  left
+Location: [2, 12]
+Heading:  right
+-------------------
+time:  119
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [2, 12]
+Heading:  down
+-------------------
+time:  120
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [1, 12]
+Heading:  left
+-------------------
+time:  121
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [1, 13]
+Heading:  up
+-------------------
+time:  122
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [2, 13]
+Heading:  right
+-------------------
+time:  123
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [3, 13]
+Heading:  right
+-------------------
+time:  124
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [3, 12]
+Heading:  down
+-------------------
+time:  125
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [3, 11]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  126
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [4, 11]
+Heading:  right
+-------------------
+time:  127
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [4, 12]
+Heading:  up
+-------------------
+time:  128
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [5, 12]
+Heading:  right
+-------------------
+time:  129
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [5, 11]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  130
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [6, 11]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  131
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [7, 11]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  132
+Rotation:  90
+Move:  0
+Intended:  left
+Location: [8, 11]
+Heading:  right
+-------------------
+time:  133
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 11]
+Heading:  down
+-------------------
+time:  134
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 11]
+Heading:  left
+-------------------
+time:  135
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [6, 11]
+Heading:  left
+-------------------
+time:  136
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [6, 12]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  137
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [7, 12]
+Heading:  right
+-------------------
+time:  138
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [8, 12]
+Heading:  right
+-------------------
+time:  139
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [8, 13]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  140
+Rotation:  90
+Move:  0
+Intended:  right
+Location: [7, 13]
+Heading:  left
+-------------------
+time:  141
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [7, 13]
+Heading:  up
+-------------------
+time:  142
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [8, 13]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  143
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [9, 13]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  144
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [10, 13]
+Heading:  right
+-------------------
+time:  145
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [11, 13]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  146
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [11, 12]
+Heading:  down
+-------------------
+time:  147
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [10, 12]
+Heading:  left
+-------------------
+time:  148
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [9, 12]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  149
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [9, 11]
+Heading:  down
+-------------------
+time:  150
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [10, 11]
+Heading:  right
+-------------------
+time:  151
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [10, 10]
+Heading:  down
+-------------------
+time:  152
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  down
+-------------------
+time:  153
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  154
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  155
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  156
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  157
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(0, 3), (1, 7), (3, 6), (4, 5), (5, 8), (5, 4), (9, 5), (10, 4), (10, 3), (11, 2), (12, 2), (12, 3), (13, 6), (11, 7), (10, 8), (6, 8)]
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+2
+2
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+Check:  (11, 2)
+chkpoints:  [(0, 3), (3, 6), (4, 5), (5, 4), (9, 5), (10, 3), (11, 2), (13, 6), (11, 7), (10, 4), (12, 2), (12, 3), (3, 9), (2, 10), (1, 13), (4, 12), (5, 12), (11, 13), (11, 12), (10, 10)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  1.  1.  1.  1.  1.  0.  0.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  1.  1.  0.  1.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  0.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  0.]
+ [ 0.  0.  0.  1.  1.  1.  0.  1.  1.  0.  0.  1.  1.  0.]
+ [ 0.  0.  0.  1.  1.  1.  0.  0.  1.  0.  0.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  0.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  0.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  1.  1.  1.  1.  1.  1.  0.  0.  0.  0.  1.  1.]
+ [ 0.  0.  1.  1.  1.  1.  1.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  1.  1.  0.  0.  0.  0.  0.  0.  0.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(10, 9)
+[8, 9]
+right
+(10, 7)
+[10, 9]
+down
+(11, 7)
+[10, 7]
+right
+(11, 6)
+[11, 7]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(11, 2)
+[12, 2]
+left
+-------------------
+time:  170
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [11, 2]
+Heading:  left
+-------------------
+time:  171
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [11, 1]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  172
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [12, 1]
+Heading:  right
+-------------------
+time:  173
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [12, 0]
+Heading:  down
+-------------------
+time:  174
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [13, 0]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  175
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [13, 1]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  176
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [13, 2]
+Heading:  up
+-------------------
+time:  177
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [12, 2]
+Heading:  left
+-------------------
+time:  178
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 3]
+Heading:  up
+-------------------
+time:  179
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 4]
+Heading:  up
+-------------------
+time:  180
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [12, 5]
+Heading:  up
+-------------------
+time:  181
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [13, 5]
+Heading:  right
+-------------------
+time:  182
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [13, 6]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  183
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [13, 7]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  184
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [13, 8]
+Heading:  up
+-------------------
+time:  185
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [13, 9]
+Heading:  up
+-------------------
+time:  186
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [12, 9]
+Heading:  left
+-------------------
+time:  187
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [11, 9]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  188
+Rotation:  90
+Move:  0
+Intended:  up
+Location: [11, 8]
+Heading:  down
+-------------------
+time:  189
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [11, 8]
+Heading:  left
+-------------------
+time:  190
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [11, 9]
+Heading:  up
+-------------------
+time:  191
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  left
+-------------------
+time:  192
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  193
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  194
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  195
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  196
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(0, 3), (3, 6), (4, 5), (5, 4), (9, 5), (10, 3), (11, 2), (13, 6), (11, 7), (10, 4), (12, 2), (12, 3), (3, 9), (2, 10), (1, 13), (4, 12), (5, 12), (11, 13), (11, 12), (10, 10)]
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+2
+2
+Check:  (12, 9)
+chkpoints:  [(0, 3), (3, 6), (4, 5), (5, 4), (9, 5), (10, 3), (11, 2), (3, 9), (2, 10), (1, 13), (4, 12), (11, 12), (10, 4), (12, 3), (5, 12), (11, 13), (10, 10), (12, 0), (12, 9)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  1.  1.  1.  1.  1.  0.  0.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  1.  1.  0.  1.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  0.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  0.]
+ [ 0.  0.  0.  1.  1.  1.  0.  1.  1.  0.  0.  1.  1.  0.]
+ [ 0.  0.  0.  1.  1.  1.  0.  0.  1.  0.  0.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  0.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  0.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  0.  0.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  0.  0.  1.  0.  0.  0.  0.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  0.  0.  0.  0.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(12, 9)
+[11, 9]
+right
+-------------------
+time:  202
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [12, 9]
+Heading:  right
+-------------------
+time:  203
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [12, 8]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  204
+Rotation:  90
+Move:  0
+Intended:  up
+Location: [12, 7]
+Heading:  down
+-------------------
+time:  205
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [12, 7]
+Heading:  left
+-------------------
+time:  206
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 8]
+Heading:  up
+-------------------
+time:  207
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [12, 9]
+Heading:  up
+-------------------
+time:  208
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [11, 9]
+Heading:  left
+-------------------
+time:  209
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  left
+-------------------
+time:  210
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  211
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  212
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  213
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  214
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(0, 3), (3, 6), (4, 5), (5, 4), (9, 5), (10, 3), (11, 2), (3, 9), (2, 10), (1, 13), (4, 12), (11, 12), (10, 4), (12, 3), (5, 12), (11, 13), (10, 10), (12, 0), (12, 9)]
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+Check:  (0, 3)
+chkpoints:  [(0, 3), (3, 6), (4, 5), (5, 4), (9, 5), (10, 3), (11, 2), (3, 9), (2, 10), (1, 13), (4, 12), (11, 12), (12, 0), (10, 4), (12, 3), (5, 12), (11, 13), (10, 10)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  1.  1.  1.  1.  1.  0.  0.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  0.  0.  1.  1.  0.  1.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  0.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  0.]
+ [ 0.  0.  0.  1.  1.  1.  0.  1.  1.  0.  0.  1.  1.  0.]
+ [ 0.  0.  0.  1.  1.  1.  0.  0.  1.  0.  0.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  0.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  0.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  0.  0.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  0.  0.  0.  0.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  0.  0.  0.  0.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(11, 6)
+[11, 9]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(11, 2)
+[12, 2]
+left
+(11, 3)
+[11, 2]
+up
+(10, 3)
+[11, 3]
+left
+(10, 4)
+[10, 3]
+up
+(11, 4)
+[10, 4]
+right
+(11, 5)
+[11, 4]
+up
+(8, 5)
+[11, 5]
+left
+(7, 5)
+[8, 5]
+left
+(7, 4)
+[7, 5]
+down
+(8, 4)
+[7, 4]
+right
+(8, 3)
+[8, 4]
+down
+(5, 3)
+[8, 3]
+left
+(5, 4)
+[5, 3]
+up
+(6, 4)
+[5, 4]
+right
+(6, 5)
+[6, 4]
+up
+(5, 5)
+[6, 5]
+left
+(5, 8)
+[5, 5]
+up
+(2, 8)
+[5, 8]
+left
+(1, 8)
+[2, 8]
+left
+(1, 5)
+[1, 8]
+down
+(1, 4)
+[1, 5]
+down
+(0, 4)
+[1, 4]
+left
+(0, 3)
+[0, 4]
+down
+-------------------
+time:  247
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [0, 3]
+Heading:  down
+-------------------
+time:  248
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [1, 3]
+Heading:  right
+-------------------
+time:  249
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [2, 3]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  250
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [3, 3]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  251
+Rotation:  90
+Move:  0
+Intended:  left
+Location: [4, 3]
+Heading:  right
+-------------------
+time:  252
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [4, 3]
+Heading:  down
+-------------------
+time:  253
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [3, 3]
+Heading:  left
+-------------------
+time:  254
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [2, 3]
+Heading:  left
+-------------------
+time:  255
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [2, 2]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  256
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [3, 2]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  257
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [3, 1]
+Heading:  down
+-------------------
+time:  258
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [2, 1]
+Heading:  left
+-------------------
+time:  259
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [2, 0]
+Heading:  down
+-------------------
+time:  260
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [3, 0]
+Heading:  right
+-------------------
+time:  261
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [4, 0]
+Heading:  right
+-------------------
+time:  262
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [4, 1]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  263
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [4, 2]
+Heading:  up
+-------------------
+time:  264
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [5, 2]
+Heading:  right
+-------------------
+time:  265
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [5, 3]
+Heading:  up
+-------------------
+time:  266
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [5, 4]
+Heading:  up
+-------------------
+time:  267
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [4, 4]
+Heading:  left
+-------------------
+time:  268
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [3, 4]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  269
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [3, 5]
+Heading:  up
+-------------------
+time:  270
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [2, 5]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  271
+Rotation:  90
+Move:  0
+Intended:  up
+Location: [2, 4]
+Heading:  down
+-------------------
+time:  272
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [2, 4]
+Heading:  left
+-------------------
+time:  273
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [2, 5]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  274
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [2, 6]
+Heading:  up
+-------------------
+time:  275
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [3, 6]
+Heading:  right
+-------------------
+time:  276
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [3, 7]
+Heading:  up
+-------------------
+time:  277
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [2, 7]
+Heading:  left
+-------------------
+time:  278
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [1, 7]
+Heading:  left
+-------------------
+time:  279
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [1, 8]
+Heading:  up
+-------------------
+time:  280
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [2, 8]
+Heading:  right
+-------------------
+time:  281
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [3, 8]
+Heading:  right
+-------------------
+time:  282
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [3, 9]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  283
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [2, 9]
+Heading:  left
+-------------------
+time:  284
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [1, 9]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  285
+Rotation:  90
+Move:  0
+Intended:  right
+Location: [0, 9]
+Heading:  left
+-------------------
+time:  286
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [0, 9]
+Heading:  up
+-------------------
+time:  287
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [1, 9]
+Heading:  right
+-------------------
+time:  288
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [1, 10]
+Heading:  up
+-------------------
+time:  289
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [0, 10]
+Heading:  left
+-------------------
+time:  290
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 11]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  291
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 12]
+Heading:  up
+-------------------
+time:  292
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [0, 13]
+Heading:  up
+-------------------
+time:  293
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [1, 13]
+Heading:  right
+-------------------
+time:  294
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [2, 13]
+Heading:  right
+-------------------
+time:  295
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [3, 13]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  296
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [4, 13]
+Heading:  right
+-------------------
+time:  297
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [4, 12]
+Heading:  down
+-------------------
+time:  298
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [5, 12]
+Heading:  right
+-------------------
+time:  299
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [5, 13]
+Heading:  up
+-------------------
+time:  300
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [6, 13]
+Heading:  right
+-------------------
+time:  301
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [7, 13]
+Heading:  right
+-------------------
+time:  302
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [8, 13]
+Heading:  right
+-------------------
+time:  303
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [9, 13]
+Heading:  right
+-------------------
+time:  304
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [10, 13]
+Heading:  right
+-------------------
+time:  305
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [11, 13]
+Heading:  right
+-------------------
+time:  306
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [11, 12]
+Heading:  down
+-------------------
+time:  307
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [12, 12]
+Heading:  right
+-------------------
+time:  308
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [12, 11]
+Heading:  down
+-------------------
+time:  309
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [12, 10]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  310
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [11, 10]
+Heading:  left
+-------------------
+time:  311
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [11, 11]
+Heading:  up
+-------------------
+time:  312
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [10, 11]
+Heading:  left
+-------------------
+time:  313
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [10, 10]
+Heading:  down
+-------------------
+time:  314
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 10]
+Heading:  left
+-------------------
+time:  315
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [8, 10]
+Heading:  left
+-------------------
+time:  316
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 10]
+Heading:  left
+-------------------
+time:  317
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 10]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  318
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [6, 9]
+Heading:  down
+-------------------
+time:  319
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [7, 9]
+Heading:  right
+-------------------
+time:  320
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  down
+-------------------
+time:  321
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(0, 3), (3, 6), (4, 5), (5, 4), (9, 5), (10, 3), (11, 2), (3, 9), (2, 10), (1, 13), (4, 12), (11, 12), (12, 0), (10, 4), (12, 3), (5, 12), (11, 13), (10, 10)]
+0
+1
+1
+0
+1
+1
+0
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+Check:  (9, 5)
+chkpoints:  [(9, 5), (10, 3), (11, 2), (12, 0), (11, 13), (1, 7), (6, 3), (7, 3), (8, 3), (8, 4), (10, 4), (12, 3), (1, 8), (2, 2), (2, 0), (4, 0), (5, 2), (0, 9)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  0.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  0.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  0.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  0.  0.  0.  0.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(11, 6)
+[11, 9]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(11, 2)
+[12, 2]
+left
+(11, 3)
+[11, 2]
+up
+(10, 3)
+[11, 3]
+left
+(10, 4)
+[10, 3]
+up
+(11, 4)
+[10, 4]
+right
+(11, 5)
+[11, 4]
+up
+(9, 5)
+[11, 5]
+left
+-------------------
+time:  338
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [9, 5]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  339
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [9, 4]
+Heading:  down
+-------------------
+time:  340
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [10, 4]
+Heading:  right
+-------------------
+time:  341
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [10, 3]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  342
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [9, 3]
+Heading:  left
+-------------------
+time:  343
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [9, 2]
+Heading:  down
+-------------------
+time:  344
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [10, 2]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  345
+Rotation:  90
+Move:  0
+Intended:  up
+Location: [10, 1]
+Heading:  down
+-------------------
+time:  346
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [10, 1]
+Heading:  left
+-------------------
+time:  347
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [10, 2]
+Heading:  up
+-------------------
+time:  348
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [11, 2]
+Heading:  right
+-------------------
+time:  349
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [12, 2]
+Heading:  right
+-------------------
+time:  350
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 3]
+Heading:  up
+-------------------
+time:  351
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 4]
+Heading:  up
+-------------------
+time:  352
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [12, 5]
+Heading:  up
+-------------------
+time:  353
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [13, 5]
+Heading:  right
+-------------------
+time:  354
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [13, 6]
+Heading:  up
+-------------------
+time:  355
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [12, 6]
+Heading:  left
+-------------------
+time:  356
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [11, 6]
+Heading:  left
+-------------------
+time:  357
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [11, 7]
+Heading:  up
+-------------------
+time:  358
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [10, 7]
+Heading:  left
+-------------------
+time:  359
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [10, 8]
+Heading:  up
+-------------------
+time:  360
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  up
+-------------------
+time:  361
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  362
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  363
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  364
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  365
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(9, 5), (10, 3), (11, 2), (12, 0), (11, 13), (1, 7), (6, 3), (7, 3), (8, 3), (8, 4), (10, 4), (12, 3), (1, 8), (2, 2), (2, 0), (4, 0), (5, 2), (0, 9)]
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+Check:  (11, 13)
+chkpoints:  [(11, 13), (8, 3), (2, 2), (2, 0), (0, 9), (1, 7), (6, 3), (7, 3), (12, 3), (1, 8), (12, 0), (5, 2)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  0.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  0.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  0.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  0.  0.  0.  0.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(12, 9)
+[11, 9]
+right
+(12, 12)
+[12, 9]
+up
+(11, 12)
+[12, 12]
+left
+(11, 13)
+[11, 12]
+up
+-------------------
+time:  374
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [11, 13]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  375
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [12, 13]
+Heading:  right
+-------------------
+time:  376
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [13, 13]
+Heading:  right
+-------------------
+time:  377
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [13, 12]
+Heading:  down
+-------------------
+time:  378
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [13, 11]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  379
+Rotation:  90
+Move:  0
+Intended:  up
+Location: [13, 10]
+Heading:  down
+-------------------
+time:  380
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [13, 10]
+Heading:  left
+-------------------
+time:  381
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [13, 11]
+Heading:  up
+-------------------
+time:  382
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [12, 11]
+Heading:  left
+-------------------
+time:  383
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [12, 10]
+Heading:  down
+-------------------
+time:  384
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [12, 9]
+Heading:  down
+-------------------
+time:  385
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [11, 9]
+Heading:  left
+-------------------
+time:  386
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  left
+-------------------
+time:  387
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  388
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  389
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  390
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  391
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(11, 13), (8, 3), (2, 2), (2, 0), (0, 9), (1, 7), (6, 3), (7, 3), (12, 3), (1, 8), (12, 0), (5, 2)]
+0
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+Check:  (8, 3)
+chkpoints:  [(8, 3), (2, 2), (2, 0), (0, 9), (1, 7), (6, 3), (7, 3), (12, 3), (1, 8), (12, 0), (5, 2)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  0.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  0.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(11, 6)
+[11, 9]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(11, 2)
+[12, 2]
+left
+(11, 3)
+[11, 2]
+up
+(10, 3)
+[11, 3]
+left
+(10, 4)
+[10, 3]
+up
+(8, 4)
+[10, 4]
+left
+(8, 3)
+[8, 4]
+down
+-------------------
+time:  407
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [8, 3]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  408
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [8, 2]
+Heading:  down
+-------------------
+time:  409
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [8, 1]
+Heading:  down
+-------------------
+time:  410
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [9, 1]
+Heading:  right
+-------------------
+time:  411
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [10, 1]
+Heading:  right
+-------------------
+time:  412
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [10, 2]
+Heading:  up
+-------------------
+time:  413
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [11, 2]
+Heading:  right
+-------------------
+time:  414
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [12, 2]
+Heading:  right
+-------------------
+time:  415
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 3]
+Heading:  up
+-------------------
+time:  416
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 4]
+Heading:  up
+-------------------
+time:  417
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [12, 5]
+Heading:  up
+-------------------
+time:  418
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [13, 5]
+Heading:  right
+-------------------
+time:  419
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [13, 6]
+Heading:  up
+-------------------
+time:  420
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [12, 6]
+Heading:  left
+-------------------
+time:  421
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [11, 6]
+Heading:  left
+-------------------
+time:  422
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [11, 7]
+Heading:  up
+-------------------
+time:  423
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [11, 8]
+Heading:  up
+-------------------
+time:  424
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [11, 9]
+Heading:  up
+-------------------
+time:  425
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  left
+-------------------
+time:  426
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  427
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  428
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  429
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  430
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(8, 3), (2, 2), (2, 0), (0, 9), (1, 7), (6, 3), (7, 3), (12, 3), (1, 8), (12, 0), (5, 2)]
+0
+1
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+Check:  (2, 2)
+chkpoints:  [(2, 2), (2, 0), (0, 9), (7, 3), (1, 7), (6, 3), (12, 3), (1, 8), (12, 0), (5, 2)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  0.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  0.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  0.  0.  1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(11, 6)
+[11, 9]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(10, 2)
+[12, 2]
+left
+(10, 1)
+[10, 2]
+down
+(8, 1)
+[10, 1]
+left
+(8, 3)
+[8, 1]
+up
+(5, 3)
+[8, 3]
+left
+(5, 2)
+[5, 3]
+down
+(4, 2)
+[5, 2]
+left
+(4, 0)
+[4, 2]
+down
+(2, 0)
+[4, 0]
+left
+(2, 1)
+[2, 0]
+up
+(3, 1)
+[2, 1]
+right
+(3, 2)
+[3, 1]
+up
+(2, 2)
+[3, 2]
+left
+-------------------
+time:  453
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [2, 2]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  454
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [1, 2]
+Heading:  left
+-------------------
+time:  455
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [1, 1]
+Heading:  down
+-------------------
+time:  456
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [1, 0]
+Heading:  down
+-------------------
+time:  457
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [2, 0]
+Heading:  right
+-------------------
+time:  458
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [3, 0]
+Heading:  right
+-------------------
+time:  459
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [4, 0]
+Heading:  right
+-------------------
+time:  460
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [5, 0]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  461
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [5, 1]
+Heading:  up
+-------------------
+time:  462
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [6, 1]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  463
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [6, 2]
+Heading:  up
+-------------------
+time:  464
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [6, 3]
+Heading:  up
+-------------------
+time:  465
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [7, 3]
+Heading:  right
+CHANGE!!!
+-------------------
+time:  466
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [7, 2]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  467
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [7, 1]
+Heading:  down
+-------------------
+time:  468
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [7, 0]
+Heading:  down
+-------------------
+time:  469
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [8, 0]
+Heading:  right
+-------------------
+time:  470
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [9, 0]
+Heading:  right
+-------------------
+time:  471
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [9, 1]
+Heading:  up
+-------------------
+time:  472
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [10, 1]
+Heading:  right
+-------------------
+time:  473
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [10, 2]
+Heading:  up
+-------------------
+time:  474
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [11, 2]
+Heading:  right
+-------------------
+time:  475
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [12, 2]
+Heading:  right
+-------------------
+time:  476
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 3]
+Heading:  up
+-------------------
+time:  477
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 4]
+Heading:  up
+-------------------
+time:  478
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [12, 5]
+Heading:  up
+-------------------
+time:  479
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [13, 5]
+Heading:  right
+-------------------
+time:  480
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [13, 6]
+Heading:  up
+-------------------
+time:  481
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [12, 6]
+Heading:  left
+-------------------
+time:  482
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [11, 6]
+Heading:  left
+-------------------
+time:  483
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [11, 7]
+Heading:  up
+-------------------
+time:  484
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [11, 8]
+Heading:  up
+-------------------
+time:  485
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [11, 9]
+Heading:  up
+-------------------
+time:  486
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  left
+-------------------
+time:  487
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  488
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  489
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  490
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  491
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(2, 2), (2, 0), (0, 9), (7, 3), (1, 7), (6, 3), (12, 3), (1, 8), (12, 0), (5, 2)]
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+0
+1
+1
+Check:  (1, 8)
+chkpoints:  [(1, 8), (0, 4), (1, 7), (12, 3), (12, 0), (5, 0)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  0.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  0.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(11, 6)
+[11, 9]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(10, 2)
+[12, 2]
+left
+(10, 1)
+[10, 2]
+down
+(8, 1)
+[10, 1]
+left
+(8, 3)
+[8, 1]
+up
+(5, 3)
+[8, 3]
+left
+(5, 4)
+[5, 3]
+up
+(4, 4)
+[5, 4]
+left
+(4, 6)
+[4, 4]
+up
+(3, 6)
+[4, 6]
+left
+(3, 7)
+[3, 6]
+up
+(1, 7)
+[3, 7]
+left
+(1, 8)
+[1, 7]
+up
+-------------------
+time:  513
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [1, 8]
+Heading:  up
+-------------------
+time:  514
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [0, 8]
+Heading:  left
+-------------------
+time:  515
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [0, 9]
+Heading:  up
+-------------------
+time:  516
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [1, 9]
+Heading:  right
+-------------------
+time:  517
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [1, 10]
+Heading:  up
+-------------------
+time:  518
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [2, 10]
+Heading:  right
+-------------------
+time:  519
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [2, 11]
+Heading:  up
+-------------------
+time:  520
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [1, 11]
+Heading:  left
+-------------------
+time:  521
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [1, 12]
+Heading:  up
+-------------------
+time:  522
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [1, 13]
+Heading:  up
+-------------------
+time:  523
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [2, 13]
+Heading:  right
+-------------------
+time:  524
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [3, 13]
+Heading:  right
+-------------------
+time:  525
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [4, 13]
+Heading:  right
+-------------------
+time:  526
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [4, 12]
+Heading:  down
+-------------------
+time:  527
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [5, 12]
+Heading:  right
+-------------------
+time:  528
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [5, 13]
+Heading:  up
+-------------------
+time:  529
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [6, 13]
+Heading:  right
+-------------------
+time:  530
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [7, 13]
+Heading:  right
+-------------------
+time:  531
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [8, 13]
+Heading:  right
+-------------------
+time:  532
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [9, 13]
+Heading:  right
+-------------------
+time:  533
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [10, 13]
+Heading:  right
+-------------------
+time:  534
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [11, 13]
+Heading:  right
+-------------------
+time:  535
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [11, 12]
+Heading:  down
+-------------------
+time:  536
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [12, 12]
+Heading:  right
+-------------------
+time:  537
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [12, 11]
+Heading:  down
+-------------------
+time:  538
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [12, 10]
+Heading:  down
+-------------------
+time:  539
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [12, 9]
+Heading:  down
+-------------------
+time:  540
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [11, 9]
+Heading:  left
+-------------------
+time:  541
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  left
+-------------------
+time:  542
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  543
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  544
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  545
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  546
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(1, 8), (0, 4), (1, 7), (12, 3), (12, 0), (5, 0)]
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+Check:  (5, 0)
+chkpoints:  [(5, 0), (0, 4), (1, 7), (12, 3), (12, 0)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  0.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(11, 6)
+[11, 9]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(10, 2)
+[12, 2]
+left
+(10, 1)
+[10, 2]
+down
+(8, 1)
+[10, 1]
+left
+(8, 3)
+[8, 1]
+up
+(6, 3)
+[8, 3]
+left
+(6, 1)
+[6, 3]
+down
+(5, 1)
+[6, 1]
+left
+(5, 0)
+[5, 1]
+down
+-------------------
+time:  564
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [5, 0]
+Heading:  down
+CHANGE!!!
+-------------------
+time:  565
+Rotation:  90
+Move:  0
+Intended:  left
+Location: [6, 0]
+Heading:  right
+-------------------
+time:  566
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [6, 0]
+Heading:  down
+-------------------
+time:  567
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [5, 0]
+Heading:  left
+-------------------
+time:  568
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [5, 1]
+Heading:  up
+-------------------
+time:  569
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [5, 2]
+Heading:  up
+-------------------
+time:  570
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [5, 3]
+Heading:  up
+-------------------
+time:  571
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [6, 3]
+Heading:  right
+-------------------
+time:  572
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [7, 3]
+Heading:  right
+-------------------
+time:  573
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [8, 3]
+Heading:  right
+-------------------
+time:  574
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [8, 2]
+Heading:  down
+-------------------
+time:  575
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [8, 1]
+Heading:  down
+-------------------
+time:  576
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [9, 1]
+Heading:  right
+-------------------
+time:  577
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [10, 1]
+Heading:  right
+-------------------
+time:  578
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [10, 2]
+Heading:  up
+-------------------
+time:  579
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [11, 2]
+Heading:  right
+-------------------
+time:  580
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [12, 2]
+Heading:  right
+-------------------
+time:  581
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 3]
+Heading:  up
+-------------------
+time:  582
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [12, 4]
+Heading:  up
+-------------------
+time:  583
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [12, 5]
+Heading:  up
+-------------------
+time:  584
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [13, 5]
+Heading:  right
+-------------------
+time:  585
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [13, 6]
+Heading:  up
+-------------------
+time:  586
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [12, 6]
+Heading:  left
+-------------------
+time:  587
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [11, 6]
+Heading:  left
+-------------------
+time:  588
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [11, 7]
+Heading:  up
+-------------------
+time:  589
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [10, 7]
+Heading:  left
+-------------------
+time:  590
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [10, 8]
+Heading:  up
+-------------------
+time:  591
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  up
+-------------------
+time:  592
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  593
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  594
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  595
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  596
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(5, 0), (0, 4), (1, 7), (12, 3), (12, 0)]
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+Check:  (0, 4)
+chkpoints:  [(0, 4), (1, 7), (12, 0)]
+[[ 1.  1.  1.  1.  1.  0.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  0.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(11, 6)
+[11, 9]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(10, 2)
+[12, 2]
+left
+(10, 1)
+[10, 2]
+down
+(8, 1)
+[10, 1]
+left
+(8, 3)
+[8, 1]
+up
+(6, 3)
+[8, 3]
+left
+(6, 1)
+[6, 3]
+down
+(5, 1)
+[6, 1]
+left
+(5, 0)
+[5, 1]
+down
+(2, 0)
+[5, 0]
+left
+(1, 0)
+[2, 0]
+left
+(1, 2)
+[1, 0]
+up
+(2, 2)
+[1, 2]
+right
+(2, 3)
+[2, 2]
+up
+(0, 3)
+[2, 3]
+left
+(0, 4)
+[0, 3]
+up
+-------------------
+time:  621
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 4]
+Heading:  up
+-------------------
+time:  622
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 5]
+Heading:  up
+-------------------
+time:  623
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 6]
+Heading:  up
+CHANGE!!!
+-------------------
+time:  624
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [0, 7]
+Heading:  up
+-------------------
+time:  625
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [1, 7]
+Heading:  right
+-------------------
+time:  626
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [1, 8]
+Heading:  up
+-------------------
+time:  627
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [0, 8]
+Heading:  left
+-------------------
+time:  628
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [0, 9]
+Heading:  up
+-------------------
+time:  629
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [1, 9]
+Heading:  right
+-------------------
+time:  630
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [1, 10]
+Heading:  up
+-------------------
+time:  631
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [0, 10]
+Heading:  left
+-------------------
+time:  632
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 11]
+Heading:  up
+-------------------
+time:  633
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [0, 12]
+Heading:  up
+-------------------
+time:  634
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [0, 13]
+Heading:  up
+-------------------
+time:  635
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [1, 13]
+Heading:  right
+-------------------
+time:  636
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [2, 13]
+Heading:  right
+-------------------
+time:  637
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [3, 13]
+Heading:  right
+-------------------
+time:  638
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [4, 13]
+Heading:  right
+-------------------
+time:  639
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [4, 12]
+Heading:  down
+-------------------
+time:  640
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [5, 12]
+Heading:  right
+-------------------
+time:  641
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [5, 13]
+Heading:  up
+-------------------
+time:  642
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [6, 13]
+Heading:  right
+-------------------
+time:  643
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [7, 13]
+Heading:  right
+-------------------
+time:  644
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [8, 13]
+Heading:  right
+-------------------
+time:  645
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [9, 13]
+Heading:  right
+-------------------
+time:  646
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [10, 13]
+Heading:  right
+-------------------
+time:  647
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [11, 13]
+Heading:  right
+-------------------
+time:  648
+Rotation:  -90
+Move:  1
+Intended:  right
+Location: [11, 12]
+Heading:  down
+-------------------
+time:  649
+Rotation:  90
+Move:  1
+Intended:  down
+Location: [12, 12]
+Heading:  right
+-------------------
+time:  650
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [12, 11]
+Heading:  down
+-------------------
+time:  651
+Rotation:  0
+Move:  1
+Intended:  down
+Location: [12, 10]
+Heading:  down
+-------------------
+time:  652
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [12, 9]
+Heading:  down
+-------------------
+time:  653
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [11, 9]
+Heading:  left
+-------------------
+time:  654
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  left
+-------------------
+time:  655
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  656
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  657
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  658
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  659
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(0, 4), (1, 7), (12, 0)]
+0
+1
+1
+Check:  (12, 0)
+chkpoints:  [(12, 0)]
+[[ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  0.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 0.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.  1.]
+ [ 1.  1.  1.  0.  0.  1.  1.  1.  1.  1.  1.  1.  1.  1.]]
+(6, 8)
+[6, 7]
+up
+(8, 8)
+[6, 8]
+right
+(8, 9)
+[8, 8]
+up
+(11, 9)
+[8, 9]
+right
+(11, 6)
+[11, 9]
+down
+(13, 6)
+[11, 6]
+right
+(13, 5)
+[13, 6]
+down
+(12, 5)
+[13, 5]
+left
+(12, 2)
+[12, 5]
+down
+(13, 2)
+[12, 2]
+right
+(13, 0)
+[13, 2]
+down
+(12, 0)
+[13, 0]
+left
+-------------------
+time:  672
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [12, 0]
+Heading:  left
+CHANGE!!!
+-------------------
+time:  673
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [11, 0]
+Heading:  left
+-------------------
+time:  674
+Rotation:  90
+Move:  1
+Intended:  up
+Location: [10, 0]
+Heading:  left
+-------------------
+time:  675
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [10, 1]
+Heading:  up
+-------------------
+time:  676
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [10, 2]
+Heading:  up
+-------------------
+time:  677
+Rotation:  0
+Move:  1
+Intended:  right
+Location: [11, 2]
+Heading:  right
+-------------------
+time:  678
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [12, 2]
+Heading:  right
+-------------------
+time:  679
+Rotation:  90
+Move:  1
+Intended:  right
+Location: [12, 3]
+Heading:  up
+-------------------
+time:  680
+Rotation:  -90
+Move:  1
+Intended:  up
+Location: [13, 3]
+Heading:  right
+-------------------
+time:  681
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [13, 4]
+Heading:  up
+-------------------
+time:  682
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [13, 5]
+Heading:  up
+-------------------
+time:  683
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [13, 6]
+Heading:  up
+-------------------
+time:  684
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [13, 7]
+Heading:  up
+-------------------
+time:  685
+Rotation:  0
+Move:  1
+Intended:  up
+Location: [13, 8]
+Heading:  up
+-------------------
+time:  686
+Rotation:  -90
+Move:  1
+Intended:  left
+Location: [13, 9]
+Heading:  up
+-------------------
+time:  687
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [12, 9]
+Heading:  left
+-------------------
+time:  688
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [11, 9]
+Heading:  left
+-------------------
+time:  689
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [10, 9]
+Heading:  left
+-------------------
+time:  690
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [9, 9]
+Heading:  left
+-------------------
+time:  691
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [8, 9]
+Heading:  left
+-------------------
+time:  692
+Rotation:  90
+Move:  1
+Intended:  left
+Location: [8, 8]
+Heading:  down
+-------------------
+time:  693
+Rotation:  0
+Move:  1
+Intended:  left
+Location: [7, 8]
+Heading:  left
+-------------------
+time:  694
+Rotation:  -90
+Move:  1
+Intended:  down
+Location: [6, 8]
+Heading:  left
+[(12, 0)]
+[[  1.   1.   1.   3.   3.   1.   1.   1.   2.   4.   2.   2.   2.   2.]
+ [  2.   1.   2.   1.   2.   2.   1.   5.   5.   4.   3.   2.   3.   4.]
+ [  4.   2.   3.   3.   2.   2.   1.   2.   3.   1.   2.   2.   2.   4.]
+ [  2.   2.   2.   2.   1.   1.   4.   5.   3.   2.   1.   1.   1.   4.]
+ [  3.   1.   2.   2.   2.   2.   3.   2.   2.   1.   1.   1.   4.   3.]
+ [  4.   4.   3.   7.   5.   3.   2.   2.   3.   2.   2.   1.   4.   3.]
+ [  2.   3.   1.   5.   3.   3.   0.  25.  25.   1.   1.   2.   1.   3.]
+ [  1.   1.   1.   3.   3.   3.   0.   0.  13.   1.   1.   2.   1.   5.]
+ [  1.   6.   2.   9.   4.   3.   2.   1.  24.  22.   1.   2.   1.   5.]
+ [  1.   3.   1.   1.   1.   2.   2.   1.   2.  11.   1.   1.   1.   4.]
+ [  1.  10.  10.   6.   6.   2.   2.   5.   4.  12.   2.   2.   1.   4.]
+ [  1.   1.  11.   5.   4.   4.  15.   7.   4.  19.   1.   1.   5.   5.]
+ [  2.   1.  17.   7.   6.  16.   5.   2.   2.   8.   4.   4.   4.   1.]
+ [  2.   1.   2.   1.   1.  17.  17.   2.   2.   2.   2.   2.   1.   1.]]
+[[ 43.  42.  41.  40.  39.  38.  37.  36.  33.  32.  29.  28.  27.  26.]
+ [ 34.  35.  36.  39.  38.  37.  36.  35.  34.  31.  30.  27.  26.  25.]
+ [ 33.  34.  37.  38.  33.  32.  33.  34.  35.  32.  29.  28.  27.  24.]
+ [ 32.  35.  36.  39.  30.  31.  32.  33.  34.  33.  30.  23.  24.  23.]
+ [ 31.  30.  29.  40.  29.  30.  31.  34.  35.  32.  31.  22.  21.  22.]
+ [ 30.  29.  28.  27.  28.  31.  32.  33.  34.  35.  36.  21.  20.  19.]
+ [ 31.  28.  27.  26.  29.  30.   0.   0.   1.   4.   5.  20.  19.  18.]
+ [ 24.  25.  26.  25.  24.  25.   0.   0.   2.   3.   6.  21.  18.  17.]
+ [ 23.  22.  23.  24.  23.  24.   5.   4.   3.   4.   5.  22.  17.  16.]
+ [ 22.  21.  20.  21.  22.  23.   6.   7.   8.   5.   6.   9.  10.  15.]
+ [ 21.  20.  19.  20.  21.  24.  25.   8.   7.   6.   7.   8.  11.  14.]
+ [ 22.  19.  18.  19.  22.  23.  10.   9.   8.   7.  10.   9.  12.  13.]
+ [ 21.  20.  17.  16.  15.  14.  11.  10.   9.   8.   9.  10.  11.  14.]
+ [ 20.  19.  18.  15.  14.  13.  12.  11.  10.   9.  12.  11.  12.  13.]]
+Ending first run. Starting next run.
+Starting run 1.
+(0, 3)
+[0, 0]
+up
+(0, 6)
+[0, 3]
+up
+(0, 7)
+[0, 6]
+up
+(3, 7)
+[0, 7]
+right
+(3, 6)
+[3, 7]
+down
+(4, 6)
+[3, 6]
+right
+(4, 4)
+[4, 6]
+down
+(5, 4)
+[4, 4]
+right
+(5, 3)
+[5, 4]
+down
+(8, 3)
+[5, 3]
+right
+(8, 4)
+[8, 3]
+up
+(10, 4)
+[8, 4]
+right
+(10, 3)
+[10, 4]
+down
+(11, 3)
+[10, 3]
+right
+(11, 2)
+[11, 3]
+down
+(12, 2)
+[11, 2]
+right
+(12, 3)
+[12, 2]
+up
+(13, 3)
+[12, 3]
+right
+(13, 6)
+[13, 3]
+up
+(11, 6)
+[13, 6]
+left
+(11, 9)
+[11, 6]
+up
+(8, 9)
+[11, 9]
+left
+(8, 8)
+[8, 9]
+down
+(6, 8)
+[8, 8]
+left
+(6.0, 7.0)
+[6, 8]
+down
+Goal found; run 1 completed!
+Task complete! Score: 48.600
+Runtimes:  [708, 25]

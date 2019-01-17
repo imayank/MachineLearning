@@ -1,0 +1,168 @@
+def modified_djkstra2(self,src,target):
+        to_examin=[src]
+        examined=[]
+        dist_src = {}
+        for node in self.graph:
+           dist_src[tuple(node)] = [100000,100000,'nope']
+        dist_src[src]=[0,0,'up'] #### (step_value, total_prev_value, heading)
+        curr_head='up'
+        next_value=0
+		#curr_exam=src
+        cycle = 0
+        while len(to_examin) > 0:
+             #print(dist_src)
+             curr_exam=(300,300,'none')
+             for node in to_examin:
+                if (dist_src[node][0],dist_src[node][1])<(curr_exam[0],curr_exam[1]):
+                  curr_exam=node
+                  break
+            
+             #if dist_src[curr_exam] == 1:
+             print("Current:",curr_exam,dist_src[curr_exam])
+             flag=True
+             for nbr in self.graph[curr_exam]:
+                
+                val1 = nbr not in examined
+                val2 = nbr in examined and (dist_src[nbr][0],dist_src[nbr][1])>(dist_src[curr_exam][0],dist_src[curr_exam][1]) 
+                if  val1 or val2:
+                  vec=[nbr[0]-curr_exam[0],nbr[1]-curr_exam[1]]
+                  if dir_move[dist_src[curr_exam][2]] == vec and dist_src[curr_exam][1] in [1,0]: #cycle > 0:
+                    dist_src[nbr][0] = dist_src[curr_exam][0]
+                    dist_src[nbr][1] = dist_src[curr_exam][1]+1
+                    dist_src[nbr][2] = dist_src[curr_exam][2]
+                    flag=False
+                  elif dir_move[dist_src[curr_exam][2]] == vec and dist_src[curr_exam][1] == 2:
+                    dist_src[nbr][0] = dist_src[curr_exam][0]+1
+                    dist_src[nbr][1] = 0
+                    dist_src[nbr][2] = dist_src[curr_exam][2]
+                    flag=False
+                  else:
+                    dist_src[nbr][0] = dist_src[curr_exam][0]+1
+                    dist_src[nbr][1] = 0
+                    dist_src[nbr][2] = dir_heading[tuple(vec)]
+                    #cycle=1
+                  if nbr not in examined:
+                   to_examin.append(nbr)
+                  print("Nbr:",nbr,dist_src[nbr])				   
+             if flag == True:
+                dist_src[nbr][0]=dist_src[curr_exam][0]+1
+                   
+                
+				  
+                  #print("Current: ", dist_src[curr_exam],curr_exam)
+                  #print("Nbr appended",dist_src[nbr],nbr)
+                 
+             #print("-------------------------------")	  
+             to_examin.remove(curr_exam)
+             examined.append(curr_exam) 
+
+        path=[]
+        curr_vertex = target
+        print("Items:")
+        for item in dist_src.items():
+           print(item)
+        #print("Source: ",src, " Target: ", target)
+        #print("working:",dist_src[self.found])
+        """while True:
+             path.append(curr_vertex)
+
+             min_value=dist_src[curr_vertex][0] + dist_src[curr_vertex][1]
+             for nbr in self.graph[curr_vertex]:
+                if dist_src[nbr][0] + dist_src[nbr][1] < min_value:
+
+                   prob_vertex = nbr
+                   min_value = dist_src[nbr][0] + dist_src[nbr][1]
+             curr_vertex = prob_vertex
+             if tuple(curr_vertex) == tuple(src):
+                break
+        path.append(src)
+        #print(path)
+        path.reverse()
+        return path"""
+
+		
+		
+	def modified_djkstra2(self,src,target):
+        to_examin=[src]
+        examined=[]
+        dist_src = {}
+        for node in self.graph:
+           dist_src[tuple(node)] = [100000,100000,'nope']
+        dist_src[src]=[0,0,'up'] #### (step_value, total_prev_value, heading)
+        curr_head='up'
+        next_value=0
+		#curr_exam=src
+        cycle = 0
+        while len(to_examin) > 0:
+             #print(dist_src)
+             curr_exam=(300,300,'none')
+             for node in to_examin:
+                if (dist_src[node][0],dist_src[node][1])<(curr_exam[0],curr_exam[1]):
+                  curr_exam=node
+                  break
+            
+             #if dist_src[curr_exam] == 1:
+             print("Current:",curr_exam,dist_src[curr_exam])
+             flag=True
+             for nbr in self.graph[curr_exam]:
+                
+                val2 = (dist_src[nbr][0],dist_src[nbr][1])>(dist_src[curr_exam][0],dist_src[curr_exam][1]) 
+                if val2:
+                  vec=[nbr[0]-curr_exam[0],nbr[1]-curr_exam[1]]
+                  if dir_move[dist_src[curr_exam][2]] == vec and dist_src[curr_exam][1] in [1,0]: #cycle > 0:
+                    dist_src[nbr][0] = dist_src[curr_exam][0]
+                    dist_src[nbr][1] = dist_src[curr_exam][1]+1
+                    dist_src[nbr][2] = dist_src[curr_exam][2]
+                    flag=False
+                  elif dir_move[dist_src[curr_exam][2]] == vec and dist_src[curr_exam][1] == 2:
+                    dist_src[nbr][0] = dist_src[curr_exam][0]+1
+                    dist_src[nbr][1] = 0
+                    dist_src[nbr][2] = dist_src[curr_exam][2]
+                    flag=False
+                  else:
+                    val=1
+                    if dist_src[curr_exam][0] == 0:
+                      val=2
+                    dist_src[nbr][0] = dist_src[curr_exam][0]+val
+                    dist_src[nbr][1] = 0
+                    dist_src[nbr][2] = dir_heading[tuple(vec)]
+                    #cycle=1
+                  if dir_move[dist_src[nbr][2]] == vec and dist_src[nbr][1] in [1,2]:
+                    if (nbr[0]+vec[0],nbr[1]+vec[1]) not in self.graph[nbr]:
+                      dist_src[nbr][0] = dist_src[nbr][0]
+                      #dist_src[nbr][1] = 0
+                
+                  to_examin.append(nbr)
+                  print("Nbr:",nbr,dist_src[nbr])				   
+             #if flag == True:
+                #dist_src[nbr][0]=dist_src[curr_exam][0]+1
+                   
+                
+				  
+                  #print("Current: ", dist_src[curr_exam],curr_exam)
+                  #print("Nbr appended",dist_src[nbr],nbr)
+                 
+             #print("-------------------------------")	  
+             to_examin.remove(curr_exam)
+             examined.append(curr_exam) 
+
+        path=[]
+        curr_vertex = target
+        print("Items:")
+        #for item in dist_src.items():
+           #print(item)
+        #print("Source: ",src, " Target: ", target)
+        #print("working:",dist_src[self.found])
+        while True:
+             path.append(curr_vertex)
+             print(curr_vertex,dist_src[curr_vertex][2])
+             direct = dir_move[dist_src[curr_vertex][2]]
+             mv=(direct[0]*-1,direct[1]*-1)
+             curr_vertex = (curr_vertex[0]+mv[0],curr_vertex[1]+mv[1])
+             if tuple(curr_vertex) == tuple(src):
+                break
+        path.append(src)
+        #print("this:",path)
+        path.reverse()
+        return path
+	

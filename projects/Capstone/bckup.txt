@@ -1,0 +1,87 @@
+def modified_djkstra(self,src,target):
+        to_examin=[src]
+        examined=[]
+        dist_src = {}
+        for node in self.graph:
+           dist_src[tuple(node)] = [100000,100000,'nope']
+        dist_src[src]=[1,0,'up'] #### (step_value, total_prev_value, heading)
+        curr_head='up'
+        next_value=0
+		#curr_exam=src
+        cycle = 0
+        while target not in examined:
+             #print(dist_src)
+             min_value=min([dist_src[node][0] + dist_src[node][1] for node in to_examin])
+             for node in to_examin:
+                if dist_src[node][0] + dist_src[node][1]==min_value:
+                  curr_exam=node
+                  break
+            
+             #if dist_src[curr_exam] == 1:
+			 
+             for nbr in self.graph[curr_exam]:
+                if self.visited[tuple(nbr)] == 1 and nbr not in examined:
+                  vec=[nbr[0]-curr_exam[0],nbr[1]-curr_exam[1]]
+                  if dir_move[dist_src[curr_exam][2]] == vec and dist_src[curr_exam][0] in [1,0.5,0.25]: #cycle > 0:
+                    next_value = dist_src[curr_exam][0]/2
+                    next_heading = dist_src[curr_exam][2]
+                    if curr_exam != src:
+                      dist_src[curr_exam][0] = next_value
+                    #cycle=(cycle+1)%3
+                  else:
+                    next_value = 1
+                    next_heading = 	dir_heading[tuple(vec)]
+                    #cycle=1	
+					
+                   
+                  dist_src[nbr][0] = next_value
+                  dist_src[nbr][1] = dist_src[curr_exam][0] + dist_src[curr_exam][1]
+                  dist_src[nbr][2] = next_heading
+				  
+                  #print("Current: ", dist_src[curr_exam],curr_exam)
+                  #print("Nbr appended",dist_src[nbr],nbr)
+                  to_examin.append(nbr)
+             #print("-------------------------------")	  
+             to_examin.remove(curr_exam)
+             examined.append(curr_exam) 
+
+        path=[]
+        curr_vertex = target
+        #for item in dist_src.items():
+        #   print(item)
+        #print("Source: ",src, " Target: ", target)
+        while True:
+             path.append(curr_vertex)
+
+             min_value=dist_src[curr_vertex][0] + dist_src[curr_vertex][1]
+             for nbr in self.graph[curr_vertex]:
+                if self.visited[tuple(nbr)] == 1 and dist_src[nbr][0] + dist_src[nbr][1] < min_value:
+
+                   prob_vertex = nbr
+                   min_value = dist_src[nbr][0] + dist_src[nbr][1]
+             curr_vertex = prob_vertex
+             if tuple(curr_vertex) == tuple(src):
+                break
+        path.append(src)
+        #print(path)
+        path.reverse()
+        return path
+		
+		
+		
+	def graph_update(self,sensors):
+        if tuple(self.location) not in self.graph:
+          self.graph[tuple(self.location)]=[]
+        for i in range(len(sensors)):
+           if sensors[i] > 0:
+             nb=dir_sensors[self.heading][i]
+             elm=(self.location[0]+dir_move[nb][0],self.location[1]+dir_move[nb][1])
+             if elm not in self.graph[tuple(self.location)]:
+               self.graph[tuple(self.location)].append((self.location[0]+dir_move[nb][0],self.location[1]+dir_move[nb][1]))
+             if elm not in self.graph:
+               self.graph[elm]=[]
+               self.graph[elm].append(tuple(self.location))
+             elif tuple(self.location) not in self.graph[elm]:
+               self.graph[elm].append(tuple(self.location))
+        if self.prev_cell != None and self.prev_cell not in self.graph[tuple(self.location)]:
+           self.graph[tuple(self.location)].append((self.prev_cell[0],self.prev_cell[1]))
